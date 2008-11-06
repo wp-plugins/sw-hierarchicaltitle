@@ -12,7 +12,10 @@ path.
 
 
 == Description ==
+
 	It is being developed by the Japanese. The explanation in English doesn't exist or there is a possibility that the grammar is not accurate. 
+
+このプラグインは[ScuderiaWeb](http://scuderia-web.com/)によって開発されたタイトルをパンくずのような階層表示にするものです。
 
 SEO対策を行う上で、titleタグにキーワードを含めることはとても重要ですが、階層を持ったページの場合、下位ページのタイトルにも上位ページのタイトルを含める必要が出てきてしまいます。
 また、パンくずナビを自動で表示している場合、同じ単語が繰り返し出てきてしまうなどの問題もあるので、そのようなときに活用してください。
@@ -29,6 +32,7 @@ SEO対策を行う上で、titleタグにキーワードを含めることはと
 [ScuderiaWebのプラグインページ](http://scuderia-web.com/wordpress-plugin/sw_hierarchical_title.php)をご覧ください。
 
 == Function ==
+
 	swPageTitle(home, 'separator', 'home_separator', disp)
 
 * home - サイト名の表示有無　0:表示しない 1:先頭(初期値) 2:末尾
