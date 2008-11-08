@@ -1,5 +1,5 @@
 === SW HierarchicalTitle ===
-Contributors: ScuderiaWeb
+Contributors: Scuderia-Web
 Donate link: http://scuderia-web.com/
 Tags: title, post, path, template, theme
 Requires at least: 2.2.3

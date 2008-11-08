@@ -4,7 +4,7 @@ Plugin Name: SW HierarchicalTitle
 Plugin URI: http://scuderia-web.com/wordpress-plugin/sw_hierarchical_title.php
 Description: タイトルをパンくずのような階層表示にするプラグインです。
 Version: 1.0
-Author: ScuderiaWeb
+Author: Scuderia-Web
 Author URI: http://scuderia-web.com
 */
 
